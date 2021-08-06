@@ -1,6 +1,6 @@
 - 🐱‍👤 Hi, I’m @Lobinia
 - 👀 I’m interested in general programming
-- 🐾 I’m currently learning HTML, CSS and JavaScript, and i'm looking forward to also learn Python and React
+- 🐾 I’m currently learning HTML, CSS and JavaScript, and i'm looking forward to also learn React and a bit of Python, and C++
 - 🍕 I’m looking to collaborate on everything that I can to developt my skills
 - 📫 How to reach me: mayajuris@gmail.com
 
