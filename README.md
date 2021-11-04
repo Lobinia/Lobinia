@@ -1,7 +1,7 @@
-- 🐱‍👤 Hi, I’m @Lobinia
+- 🐱‍👤 Hi, I’m Maya, 23yo brazilian transgender girl
 - 🐱‍👓 I'm quite good at HTML and CSS
-- 🐾 I’m currently learning JavaScript, and i'm looking forward to also learn React and Python
-- 🍕 I’m looking to collaborate on everything that I can to develop my skills
+- 🐱‍🐉 Basic JavaScript and TypeScript proficiency, always improving
+- 🐾 I’m currently learning nodeJS, and i'm looking forward to also learn React
 - 📫 How to reach me: mayajuris@gmail.com
 
 <!---
