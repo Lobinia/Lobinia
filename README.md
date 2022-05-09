@@ -3,9 +3,6 @@
 </a> <a href="https://www.linkedin.com/in/maya-lobi/?locale=en_US">
   <img align="left" alt="Maya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/12153921004?si=4dea706a51364401">
-  <img align="left" alt="Maya's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a><br/>
 
 
 
