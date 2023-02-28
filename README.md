@@ -8,7 +8,7 @@
 
 ### Hey there 🐱‍💻, I'm Maya! Welcome to my GitHub. <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg" width="25px" />
 
-I'm a 23-year-old front-end developer from Brazil. 
+I'm a 24-year-old front-end developer from Brazil. 
 
 
 ### Languages and tools:
