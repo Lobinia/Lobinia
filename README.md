@@ -1,7 +1,4 @@
-<a href="https://twitter.com/lobxona">
-  <img width="22px" align="left" alt="Maya's Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />
-  </svg>
-</a> <a href="https://www.linkedin.com/in/maya-lobi/?locale=en_US">
+<a href="https://www.linkedin.com/in/maya-lobi/?locale=en_US">
   <img align="left" alt="Maya's LinkedIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 <br/>
