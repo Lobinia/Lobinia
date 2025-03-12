@@ -6,7 +6,7 @@
 
 ### Hey there 🐱‍💻, Welcome to my GitHub. <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg" width="25px" />
 
-I'm a 25-year-old front-end developer from Brazil. 
+I'm a 26-year-old web developer from Brazil. 
 
 
 ### Languages and tools:
