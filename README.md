@@ -4,9 +4,9 @@
 <br/>
 
 
-### Hey there 🐱‍💻, Welcome to my GitHub. <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg" width="25px" />
+### Hey there 🐱‍💻, Welcome to my GitHub.
 
-I'm a 26-year-old web developer from Brazil. 
+I'm a 27-year-old web developer from Brazil. 
 
 
 ### Languages and tools:
